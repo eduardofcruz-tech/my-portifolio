@@ -1,0 +1,32 @@
+.div--contact {
+    color: var(--color-text);
+    font-size: 1.7rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.div--contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.div--contact-info-detail {
+    display: flex;
+    gap: 15px;
+    flex-direction: row;
+    color: var(--color-text);
+    align-items: center;
+}
+
+.div--contact-info-detail svg {
+    height: 30px;
+    width: 30px;
+    fill: var(--color-text);
+}
+
+.div--contact-info-detail p {
+    align-items: center;
+    justify-content: center;
+}

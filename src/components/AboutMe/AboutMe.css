@@ -1,0 +1,30 @@
+.div--about-me {
+    color: var(--color-text);
+    border-left: 2px solid var(--color-text);
+    padding: 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.div--about-me-section{
+    max-width: 80%;
+}
+
+.p--about-me-title {
+    font-size: 1.3rem;
+}
+
+.p--about-me-occupation{
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.div--about-me-quote-marks {
+    width: 130px;
+    fill: var(--color-text);
+    position: relative;
+    top: -45px;
+    right: -45px;
+  }
