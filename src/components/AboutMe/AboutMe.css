@@ -21,6 +21,14 @@
     margin: 20px 0;
 }
 
+.p--about-me-text {
+    margin-bottom: 10px;
+}
+
+.p--about-me-text:last-child {
+    margin-bottom: 0;
+}
+
 .div--about-me-quote-marks {
     width: 130px;
     fill: var(--color-text);
