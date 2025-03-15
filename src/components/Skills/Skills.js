@@ -27,7 +27,7 @@ function Skills() {
                 </div>
                 <div className="li--skills">
                     <div className="div--skill-logo"><ReactJS /></div>
-                    <p className="div--skill-name">REACT JS</p> 
+                    <p className="div--skill-name">REACT-JS</p> 
                 </div>
                 <div className="li--skills">
                     <div className="div--skill-logo"><Python /></div>
